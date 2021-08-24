@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="_Count">0</string>
+    <string name="_Add">Добавить</string>
+</resources>
